@@ -38,26 +38,6 @@ This repository contains a complete machine learning pipeline to forecast **Toss
 
 ---
 
-## 🚀 How to Use
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/ipl-2025-prediction.git
-cd ipl-2025-prediction
-
-# (Optional) Create and activate a virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the script to generate match predictions
-python IPL_2025_Match_Storytelling_Generator.py
-```
-
----
-
 ## 📈 Visualizations
 
 The project also includes:
